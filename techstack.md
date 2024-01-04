@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/gaia is built on the following main stack:
+
 - [Heroku](https://www.heroku.com) – Platform as a Service
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -18,11 +19,13 @@ ashleanichols/gaia is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/gaia is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -39,14 +42,15 @@ ashleanichols/gaia is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/gaia](https://github.com/ashleanichols/gaia)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|53<br/>Tools used|11/09/23 <br/>Report generated|
+|54<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -219,9 +223,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (36)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (37)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (36)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (37)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -250,6 +254,7 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|v4.17.1|09/23/19|Matthew Little |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[fetch-mock](https://www.npmjs.com/fetch-mock)|v7.3.9|09/10/20|dependabot[bot] |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v8.1.0|09/24/19|Matthew Little |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.2.5|07/22/20|Charlie |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v5.1.1|03/18/19|Matthew Little |ISC|N/A|
 |[nanoid](https://www.npmjs.com/nanoid)|v2.1.11|02/08/20|Matthew Little |MIT|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.0|05/04/21|CharlieC3 |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)<br/>[CVE-2020-15168](https://github.com/advisories/GHSA-w7rc-rwvf-8q5r) (Low)|
@@ -265,4 +270,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
